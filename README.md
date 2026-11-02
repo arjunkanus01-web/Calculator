@@ -77,6 +77,12 @@ pip install PySide6
 Then run:
 
 python "Terra Calculator.py"
+structure
+Terra-Calculator/
+│
+├── Terra Calculator.py
+├── README.md
+└── .gitignore
 
  What I learned
 While making this, I learned about Python classes, functions, GUI development, event handling, custom painting and animations.
